@@ -1,0 +1,22 @@
+Options -Indexes
+RewriteRule ^/?$ hm.php [NC,L]
+RewriteRule ^foto?$ foto.php [NC,L]
+RewriteRule ^user?$ user.php [NC,L]
+RewriteRule ^blog?$ blog.php [NC,L]
+RewriteRule ^tiket?$ tickets.php [NC,L]
+
+RewriteRule ^logout?$ ./../logout.php [NC,L]
+
+RewriteRule  ^/?([^'.,?*&^%$#@!/]+)$       hm.php?halaman=$1       [NC,L]
+RewriteRule  ^produk/?([^'.,?*&^%$#@!/]+)$       detail_produk.php?id=$1       [NC,L]
+RewriteRule  ^balas/?([^'.,?*&^%$#@!/]+)$       open/open.php?id=$1       [NC,L]
+
+RewriteRule  ^hpenjualan/?([^'.,?*&^%$#@!/]+)$       hapus/hpenjualan.php?&id=$1       [NC,L]
+RewriteRule  ^hbarang/?([^'.,?*&^%$#@!/]+)$       hapus/hbarang.php?&id=$1       [NC,L]
+RewriteRule  ^hfoto/?([^'.,?*&^%$#@!/]+)$       hapus/hfoto.php?&id=$1       [NC,L]
+RewriteRule  ^profile/?([^'.,?*&^%$#@!/]+)$       profile.php?id=$1       [NC,L]
+RewriteRule  ^user/?([^'.,?*&^%$#@!/]+)$       euser.php?id=$1       [NC,L]
+RewriteRule  ^profileedit/?([^'.,?*&^%$#@!/]+)$       prosesedit/profileedit.php?id=$1       [NC,L]
+RewriteRule ^cetak_barang?$ lap_barang.php [NC,L]
+
+

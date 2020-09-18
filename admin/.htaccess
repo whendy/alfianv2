@@ -1,0 +1,79 @@
+Options -Indexes
+RewriteRule ^/?$ hm.php [NC,L]
+RewriteRule ^foto?$ foto.php [NC,L]
+RewriteRule ^user?$ user.php [NC,L]
+RewriteRule ^tickets?$ tickets.php [NC,L]
+RewriteRule ^blog?$ postingan.php [NC,L]
+RewriteRule ^koblog?$ views/blog/koblog.php [NC,L]
+RewriteRule ^kablog?$ kategori.php [NC,L]
+RewriteRule ^barang?$ barang.php [NC,L]
+RewriteRule ^penjualan?$ penjualan.php [NC,L]
+RewriteRule ^setting?$ setting.php [NC,L]
+RewriteRule ^halaman?$ views/halaman/halaman.php [NC,L]
+RewriteRule ^kahalaman?$ views/halaman/kategori_halaman.php [NC,L]
+RewriteRule ^kohalaman?$ views/halaman/kohalaman.php [NC,L]
+
+RewriteRule ^kontak?$ views/kontak/kontak_pesan.php [NC,L]
+RewriteRule ^tiket?$ views/tiket/tiket_pesan.php [NC,L]
+
+
+RewriteRule ^baner?$ views/baner/banerr.php [NC,L]
+RewriteRule ^kobaner?$ views/baner/kobanerr.php [NC,L]
+RewriteRule ^logout?$ ./../logout.php [NC,L]
+
+
+RewriteRule ^tambahpost?$ prosestambah/tambahpost.php [NC,L]
+RewriteRule ^tambahbarang?$ prosestambah/tambahbarang.php [NC,L]
+RewriteRule ^tambahpenjualan?$ prosestambah/ppenjualan.php [NC,L]
+RewriteRule ^tambahfoto?$ prosestambah/pfoto.php [NC,L]
+RewriteRule ^tambahkablog?$ prosestambah/pkategori.php [NC,L]
+RewriteRule ^pjual?$ prosestambah/barang_laku_act.php [NC,L]
+RewriteRule ^tambahkahalaman?$ prosestambah/pkahalaman.php [NC,L]
+RewriteRule ^tambahhalaman?$ prosestambah/tambahhalaman.php [NC,L]
+RewriteRule ^tambahbaner?$ prosestambah/tambahbaner.php [NC,L]
+
+
+
+
+
+
+RewriteRule  ^hpenjualan/?([^'.,?*&^%$#@!/]+)$       hapus/hpenjualan.php?&id=$1       [NC,L]
+RewriteRule  ^hkahalaman/?([^'.,?*&^%$#@!/]+)$       hapus/hkahalaman.php?&category_id=$1       [NC,L]
+RewriteRule  ^hkobaner/?([^'.,?*&^%$#@!/]+)$       hapus/hkobaner.php?&id=$1       [NC,L]
+RewriteRule  ^hkohalaman/?([^'.,?*&^%$#@!/]+)$       hapus/hkohalaman.php?&id=$1       [NC,L]
+RewriteRule  ^hkoblog/?([^'.,?*&^%$#@!/]+)$       hapus/hkoblog.php?&id=$1       [NC,L]
+
+RewriteRule  ^hhalaman/?([^'.,?*&^%$#@!/]+)$       hapus/hhalaman.php?&page_id=$1       [NC,L]
+
+RewriteRule  ^htickets/?([^'.,?*&^%$#@!/]+)$       hapus/htickets.php?&id=$1       [NC,L]
+RewriteRule  ^blog/?([^'.,?*&^%$#@!/]+)$       edit/postedit.php?&idpost=$1       [NC,L]
+RewriteRule  ^koblog/?([^'.,?*&^%$#@!/]+)$       edit/koblogedit.php?&id=$1       [NC,L]
+
+RewriteRule  ^kablog/?([^'.,?*&^%$#@!/]+)$       edit/kategoriedit.php?&idkategori=$1       [NC,L]
+RewriteRule  ^foto/?([^'.,?*&^%$#@!/]+)$       edit/fotoedit.php?&id=$1       [NC,L]
+RewriteRule  ^barang/?([^'.,?*&^%$#@!/]+)$       edit/editbarang.php?&id=$1       [NC,L]
+RewriteRule  ^penjualan/?([^'.,?*&^%$#@!/]+)$       edit/editpenjualan.php?&id=$1       [NC,L]
+RewriteRule  ^baner/?([^'.,?*&^%$#@!/]+)$       edit/editbaner.php?&id_baner=$1       [NC,L]
+RewriteRule  ^kobaner/?([^'.,?*&^%$#@!/]+)$       edit/kobaneredit.php?&id=$1       [NC,L]
+
+
+
+
+RewriteRule  ^kahalaman/?([^'.,?*&^%$#@!/]+)$       edit/kahalamanedit.php?&category_id=$1       [NC,L]
+RewriteRule  ^halaman/?([^'.,?*&^%$#@!/]+)$       edit/edithalaman.php?&page_id=$1       [NC,L]
+RewriteRule  ^kohalaman/?([^'.,?*&^%$#@!/]+)$       edit/kohalamanedit.php?&id=$1       [NC,L]
+
+
+
+
+
+RewriteRule  ^close/?([^'.,?*&^%$#@!/]+)$       tiket/close.php?id=$1       [NC,L]
+RewriteRule  ^balas/?([^'.,?*&^%$#@!/]+)$       tiket/balas.php?id=$1       [NC,L]
+
+RewriteRule  ^profile/?([^'.,?*&^%$#@!/]+)$       profile.php?id=$1       [NC,L]
+RewriteRule  ^user/?([^'.,?*&^%$#@!/]+)$       euser.php?id=$1       [NC,L]
+RewriteRule  ^profileedit/?([^'.,?*&^%$#@!/]+)$       prosesedit/profileedit.php?id=$1       [NC,L]
+RewriteRule ^cetak_barang?$ lap_barang.php [NC,L]
+
+
+

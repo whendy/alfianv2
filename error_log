@@ -1,0 +1,970 @@
+[14-Mar-2020 13:32:51 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/alfianas/public_html/config.php on line 28
+[14-Mar-2020 13:32:51 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/alfianas/public_html/config.php on line 29
+[14-Mar-2020 13:32:51 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/alfianas/public_html/config.php on line 30
+[14-Mar-2020 13:32:51 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/alfianas/public_html/config.php on line 31
+[14-Mar-2020 13:33:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/alfianas/public_html/news_detail.php:8
+Stack trace:
+#0 /home/alfianas/public_html/news_detail.php(11): antiInjections('63')
+#1 {main}
+  thrown in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:33:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/alfianas/public_html/news_detail.php:8
+Stack trace:
+#0 /home/alfianas/public_html/news_detail.php(11): antiInjections('63')
+#1 {main}
+  thrown in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:33:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/alfianas/public_html/news_detail.php:8
+Stack trace:
+#0 /home/alfianas/public_html/news_detail.php(11): antiInjections('63')
+#1 {main}
+  thrown in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:33:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/alfianas/public_html/news_detail.php:8
+Stack trace:
+#0 /home/alfianas/public_html/news_detail.php(11): antiInjections('63')
+#1 {main}
+  thrown in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:33:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/alfianas/public_html/news_detail.php:8
+Stack trace:
+#0 /home/alfianas/public_html/news_detail.php(11): antiInjections('63')
+#1 {main}
+  thrown in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:33:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/alfianas/public_html/news_detail.php:8
+Stack trace:
+#0 /home/alfianas/public_html/news_detail.php(11): antiInjections('64')
+#1 {main}
+  thrown in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:34:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/alfianas/public_html/news_detail.php:8
+Stack trace:
+#0 /home/alfianas/public_html/news_detail.php(11): antiInjections('64')
+#1 {main}
+  thrown in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:34:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/alfianas/public_html/news_detail.php:8
+Stack trace:
+#0 /home/alfianas/public_html/news_detail.php(11): antiInjections('64')
+#1 {main}
+  thrown in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:36:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/alfianas/public_html/news_detail.php:8
+Stack trace:
+#0 /home/alfianas/public_html/news_detail.php(11): antiInjections('63')
+#1 {main}
+  thrown in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:37:26 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'alfianas_alfian'@'localhost' (using password: YES) in /home/alfianas/public_html/config.php on line 28
+[14-Mar-2020 13:37:26 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'alfianas_alfian'@'localhost' (using password: YES) in /home/alfianas/public_html/config.php on line 29
+[14-Mar-2020 13:37:26 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'alfianas_alfian'@'localhost' (using password: YES) in /home/alfianas/public_html/config.php on line 30
+[14-Mar-2020 13:37:26 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'alfianas_alfian'@'localhost' (using password: YES) in /home/alfianas/public_html/config.php on line 31
+[14-Mar-2020 13:40:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/alfianas/public_html/news_detail.php:8
+Stack trace:
+#0 /home/alfianas/public_html/news_detail.php(11): antiInjections('63')
+#1 {main}
+  thrown in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:40:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/alfianas/public_html/news_detail.php:8
+Stack trace:
+#0 /home/alfianas/public_html/news_detail.php(11): antiInjections('63')
+#1 {main}
+  thrown in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:40:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/alfianas/public_html/news_detail.php:8
+Stack trace:
+#0 /home/alfianas/public_html/news_detail.php(11): antiInjections('63')
+#1 {main}
+  thrown in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:40:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/alfianas/public_html/news_detail.php:8
+Stack trace:
+#0 /home/alfianas/public_html/news_detail.php(11): antiInjections('63')
+#1 {main}
+  thrown in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:40:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/alfianas/public_html/news_detail.php:8
+Stack trace:
+#0 /home/alfianas/public_html/news_detail.php(11): antiInjections('63')
+#1 {main}
+  thrown in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:40:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/alfianas/public_html/news_detail.php:8
+Stack trace:
+#0 /home/alfianas/public_html/news_detail.php(11): antiInjections('63')
+#1 {main}
+  thrown in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:40:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/alfianas/public_html/news_detail.php:8
+Stack trace:
+#0 /home/alfianas/public_html/news_detail.php(11): antiInjections('63')
+#1 {main}
+  thrown in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:40:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/alfianas/public_html/news_detail.php:8
+Stack trace:
+#0 /home/alfianas/public_html/news_detail.php(11): antiInjections('63')
+#1 {main}
+  thrown in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:41:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/alfianas/public_html/news_detail.php:8
+Stack trace:
+#0 /home/alfianas/public_html/news_detail.php(11): antiInjections('63')
+#1 {main}
+  thrown in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:41:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/alfianas/public_html/news_detail.php:8
+Stack trace:
+#0 /home/alfianas/public_html/news_detail.php(11): antiInjections('63')
+#1 {main}
+  thrown in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:41:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/alfianas/public_html/news_detail.php:8
+Stack trace:
+#0 /home/alfianas/public_html/news_detail.php(11): antiInjections('63')
+#1 {main}
+  thrown in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:41:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/alfianas/public_html/news_detail.php:8
+Stack trace:
+#0 /home/alfianas/public_html/news_detail.php(11): antiInjections('63')
+#1 {main}
+  thrown in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:42:47 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:42:47 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:42:47 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:42:53 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:42:53 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:42:53 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:07 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:07 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:07 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:24 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:24 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:24 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:24 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:24 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:24 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:25 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:25 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:25 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:25 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:25 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:25 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:25 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:25 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:25 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:26 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:26 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:26 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:26 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:26 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:26 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:27 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:27 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:27 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:27 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:27 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:27 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:27 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:27 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:27 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:28 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:28 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:28 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:28 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:28 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:28 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:29 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:29 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:29 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:29 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:29 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:29 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:29 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:29 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:29 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:30 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:30 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:30 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:30 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:30 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:30 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:31 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:31 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:31 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:31 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:31 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:31 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:31 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:31 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:31 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:32 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:32 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:32 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:32 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:32 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:32 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:33 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:33 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:33 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:33 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:33 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:33 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:33 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:33 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:33 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:34 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:34 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:34 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:34 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:34 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:34 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:35 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:35 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:35 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:35 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:35 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:35 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:35 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:35 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:35 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:36 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:36 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:36 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:36 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:36 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:36 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:37 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:37 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:37 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:37 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:37 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:37 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:38 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:38 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:38 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:38 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:38 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:38 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:39 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:39 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:39 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:39 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:39 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:39 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:40 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:40 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:40 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:41 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:41 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:41 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:42 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:42 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:42 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:43 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:43 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:43 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:44 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:44 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:44 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:45 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:45 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:45 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:46 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:46 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:46 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:47 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:47 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:47 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:48 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:48 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:48 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:49 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:49 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:49 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:50 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:50 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:50 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:52 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:52 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:43:52 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[14-Mar-2020 13:44:45 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:45 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:45 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:46 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:46 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:46 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:46 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:46 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:46 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:47 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:47 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:47 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:47 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:47 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:47 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:47 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:47 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:47 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:48 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:48 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:48 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:49 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:49 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:49 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:51 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:51 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:51 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:52 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:52 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:52 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:53 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:53 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:53 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:54 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:54 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:54 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:55 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:55 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:55 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:56 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:56 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:56 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:57 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:57 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:57 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:58 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:58 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:58 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:59 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:59 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:44:59 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:00 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:00 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:00 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:01 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:01 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:01 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:02 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:02 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:02 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:03 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:03 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:03 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:04 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:04 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:04 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:05 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:05 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:05 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:06 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:06 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:06 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:07 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:07 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:07 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:08 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:08 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:08 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:09 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:09 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:09 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:10 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:10 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:10 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:11 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:11 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:11 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:12 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:12 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:12 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:13 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:13 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:13 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:14 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:14 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:14 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:15 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:15 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:15 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:17 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:17 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:17 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:18 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:18 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:18 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:19 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:19 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:19 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:20 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:20 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:20 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:21 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:21 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:21 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:22 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:22 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:22 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:23 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:23 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:23 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:24 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:24 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:24 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:25 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:25 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:25 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:26 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:26 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:26 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:27 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:27 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:27 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:28 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:28 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:28 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:29 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:29 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:29 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:30 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:30 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:30 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:31 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:31 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:31 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:32 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:32 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:32 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:33 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:33 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:33 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:34 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:34 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:34 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:35 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:35 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:35 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:36 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:36 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:36 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:37 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:37 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:37 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:38 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:38 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:38 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:39 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:39 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:39 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:40 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:40 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:40 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:41 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:41 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:41 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:42 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:42 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:42 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:43 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:43 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:43 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:44 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:44 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:44 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:45 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:45 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:45 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:46 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:46 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:46 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:47 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:47 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:47 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:48 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:48 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:48 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:49 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:49 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:49 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:50 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:50 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:50 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:51 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:51 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:51 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:52 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:52 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:52 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:53 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:53 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:53 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:54 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:54 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:54 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:55 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:55 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:55 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:56 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:56 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:56 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:57 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:57 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:57 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:58 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:58 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:45:58 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:00 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:00 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:00 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:01 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:01 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:01 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:02 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:02 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:02 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:03 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:03 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:03 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:04 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:04 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:04 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:05 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:05 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:05 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:06 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:06 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:06 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:07 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:07 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:07 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:08 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:08 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:08 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:09 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:09 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:09 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:10 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:10 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:10 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:11 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:11 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:11 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:12 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:12 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:12 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:13 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:13 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:13 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:15 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:15 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:15 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:16 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:16 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:16 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:17 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:17 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:17 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:18 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:18 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:18 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:19 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:19 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:19 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:20 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:20 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:20 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:21 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:21 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:21 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:22 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:22 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:22 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:23 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:23 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:23 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:24 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:24 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:24 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:25 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:25 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:25 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:26 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:26 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:26 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:27 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:27 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:27 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:28 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:28 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:28 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:29 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:29 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:29 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:30 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:30 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:30 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:31 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:31 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:31 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:32 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:32 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:32 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:33 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:33 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:46:33 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 9
+[14-Mar-2020 13:48:03 Asia/Jakarta] PHP Warning:  include_once(./../../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/news_detail.php on line 6
+[14-Mar-2020 13:48:03 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alfianas/public_html/news_detail.php on line 6
+[14-Mar-2020 13:49:35 Asia/Jakarta] PHP Warning:  include_once(./../../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/news_detail.php on line 6
+[14-Mar-2020 13:49:35 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alfianas/public_html/news_detail.php on line 6
+[14-Mar-2020 13:50:24 Asia/Jakarta] PHP Warning:  include_once(./../../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/news_detail.php on line 6
+[14-Mar-2020 13:50:24 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alfianas/public_html/news_detail.php on line 6
+[14-Mar-2020 16:29:34 Asia/Jakarta] PHP Warning:  include_once(./../../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/news_detail.php on line 6
+[14-Mar-2020 16:29:34 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 00:37:16 Asia/Jakarta] PHP Warning:  include_once(./../../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 00:37:16 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 00:37:16 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/alfianas/public_html/news_detail.php on line 9
+[15-Mar-2020 00:37:16 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/alfianas/public_html/news_detail.php on line 26
+[15-Mar-2020 00:37:16 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/alfianas/public_html/news_detail.php on line 45
+[15-Mar-2020 00:37:53 Asia/Jakarta] PHP Warning:  include_once(./../../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 00:37:53 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 00:37:53 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/alfianas/public_html/news_detail.php on line 9
+[15-Mar-2020 00:37:53 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/alfianas/public_html/news_detail.php on line 26
+[15-Mar-2020 00:37:53 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/alfianas/public_html/news_detail.php on line 45
+[15-Mar-2020 00:38:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/alfianas/public_html/news_detail.php:8
+Stack trace:
+#0 /home/alfianas/public_html/news_detail.php(11): antiInjections('Detail baju mus...')
+#1 {main}
+  thrown in /home/alfianas/public_html/news_detail.php on line 8
+[15-Mar-2020 00:38:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/alfianas/public_html/news_detail.php:8
+Stack trace:
+#0 /home/alfianas/public_html/news_detail.php(11): antiInjections('Detail baju mus...')
+#1 {main}
+  thrown in /home/alfianas/public_html/news_detail.php on line 8
+[15-Mar-2020 00:38:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/alfianas/public_html/news_detail.php:8
+Stack trace:
+#0 /home/alfianas/public_html/news_detail.php(11): antiInjections('Detail baju mus...')
+#1 {main}
+  thrown in /home/alfianas/public_html/news_detail.php on line 8
+[15-Mar-2020 00:38:33 Asia/Jakarta] PHP Warning:  include_once(./../../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 00:38:33 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 00:38:33 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/alfianas/public_html/news_detail.php on line 9
+[15-Mar-2020 00:38:33 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/alfianas/public_html/news_detail.php on line 26
+[15-Mar-2020 00:38:33 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/alfianas/public_html/news_detail.php on line 45
+[15-Mar-2020 00:39:32 Asia/Jakarta] PHP Warning:  include_once(./../../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 00:39:32 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 00:39:32 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/alfianas/public_html/news_detail.php on line 9
+[15-Mar-2020 00:39:32 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/alfianas/public_html/news_detail.php on line 26
+[15-Mar-2020 00:39:32 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/alfianas/public_html/news_detail.php on line 45
+[15-Mar-2020 00:39:56 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[15-Mar-2020 00:39:56 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[15-Mar-2020 00:39:56 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[15-Mar-2020 00:40:35 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[15-Mar-2020 00:40:35 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[15-Mar-2020 00:40:35 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[15-Mar-2020 00:40:51 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[15-Mar-2020 00:40:51 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[15-Mar-2020 00:40:51 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[15-Mar-2020 00:41:48 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[15-Mar-2020 00:41:48 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[15-Mar-2020 00:41:48 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[15-Mar-2020 00:41:48 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alfianas/public_html/news_detail.php on line 108
+[15-Mar-2020 00:42:25 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[15-Mar-2020 00:42:25 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[15-Mar-2020 00:42:25 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[15-Mar-2020 00:42:25 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alfianas/public_html/news_detail.php on line 106
+[15-Mar-2020 00:42:37 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[15-Mar-2020 00:42:37 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[15-Mar-2020 00:42:37 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[15-Mar-2020 00:42:37 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/alfianas/public_html/news_detail.php on line 104
+[15-Mar-2020 00:43:15 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[15-Mar-2020 00:43:15 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[15-Mar-2020 00:43:15 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[15-Mar-2020 00:43:19 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[15-Mar-2020 00:43:19 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[15-Mar-2020 00:43:19 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[15-Mar-2020 00:44:14 Asia/Jakarta] PHP Warning:  include_once(./../../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 00:44:14 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 00:45:09 Asia/Jakarta] PHP Warning:  include_once(./../../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 00:45:09 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 00:45:57 Asia/Jakarta] PHP Warning:  include_once(./../../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 00:45:57 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 00:45:57 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/alfianas/public_html/news_detail.php on line 26
+[15-Mar-2020 00:45:57 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/alfianas/public_html/news_detail.php on line 45
+[15-Mar-2020 00:46:07 Asia/Jakarta] PHP Warning:  include_once(./../../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 00:46:07 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 00:46:07 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/alfianas/public_html/news_detail.php on line 26
+[15-Mar-2020 00:46:07 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/alfianas/public_html/news_detail.php on line 45
+[15-Mar-2020 00:47:21 Asia/Jakarta] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alfianas/public_html/news_detail.php on line 8
+[15-Mar-2020 00:47:21 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): Access denied for user 'alfianas'@'localhost' (using password: NO) in /home/alfianas/public_html/news_detail.php on line 8
+[15-Mar-2020 00:47:21 Asia/Jakarta] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/alfianas/public_html/news_detail.php on line 8
+[15-Mar-2020 00:47:55 Asia/Jakarta] PHP Warning:  include_once(./../../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 00:47:55 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 00:47:55 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/alfianas/public_html/news_detail.php on line 26
+[15-Mar-2020 00:47:55 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/alfianas/public_html/news_detail.php on line 45
+[15-Mar-2020 00:48:14 Asia/Jakarta] PHP Warning:  include_once(./../../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 00:48:14 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 00:48:14 Asia/Jakarta] PHP Notice:  Undefined index: judul in /home/alfianas/public_html/news_detail.php on line 7
+[15-Mar-2020 00:48:14 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/alfianas/public_html/news_detail.php on line 9
+[15-Mar-2020 00:48:14 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/alfianas/public_html/news_detail.php on line 26
+[15-Mar-2020 00:48:14 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/alfianas/public_html/news_detail.php on line 45
+[15-Mar-2020 00:48:15 Asia/Jakarta] PHP Warning:  include_once(./../../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 00:48:15 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 00:48:15 Asia/Jakarta] PHP Notice:  Undefined index: judul in /home/alfianas/public_html/news_detail.php on line 7
+[15-Mar-2020 00:48:15 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/alfianas/public_html/news_detail.php on line 9
+[15-Mar-2020 00:48:15 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/alfianas/public_html/news_detail.php on line 26
+[15-Mar-2020 00:48:15 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/alfianas/public_html/news_detail.php on line 45
+[15-Mar-2020 00:48:27 Asia/Jakarta] PHP Warning:  include_once(./../../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 00:48:27 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 00:49:51 Asia/Jakarta] PHP Warning:  include_once(./../../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 00:49:51 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 00:51:49 Asia/Jakarta] PHP Warning:  include_once(./../../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 00:51:49 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 00:51:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/alfianas/public_html/news_detail.php:10
+Stack trace:
+#0 /home/alfianas/public_html/news_detail.php(13): antiInjections('64')
+#1 {main}
+  thrown in /home/alfianas/public_html/news_detail.php on line 10
+[15-Mar-2020 00:51:55 Asia/Jakarta] PHP Warning:  include_once(./../../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 00:51:55 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 00:51:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/alfianas/public_html/news_detail.php:10
+Stack trace:
+#0 /home/alfianas/public_html/news_detail.php(13): antiInjections('64')
+#1 {main}
+  thrown in /home/alfianas/public_html/news_detail.php on line 10
+[15-Mar-2020 00:51:55 Asia/Jakarta] PHP Warning:  include_once(./../../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 00:51:55 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 00:51:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/alfianas/public_html/news_detail.php:10
+Stack trace:
+#0 /home/alfianas/public_html/news_detail.php(13): antiInjections('64')
+#1 {main}
+  thrown in /home/alfianas/public_html/news_detail.php on line 10
+[15-Mar-2020 00:52:17 Asia/Jakarta] PHP Warning:  include_once(./../../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 00:52:17 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 00:52:30 Asia/Jakarta] PHP Warning:  include_once(./../../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 00:52:30 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 00:52:30 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/alfianas/public_html/news_detail.php on line 27
+[15-Mar-2020 00:52:30 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/alfianas/public_html/news_detail.php on line 46
+[15-Mar-2020 00:53:51 Asia/Jakarta] PHP Warning:  include_once(./../../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 00:53:51 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 00:53:51 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/alfianas/public_html/news_detail.php on line 27
+[15-Mar-2020 00:53:51 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/alfianas/public_html/news_detail.php on line 46
+[15-Mar-2020 00:54:53 Asia/Jakarta] PHP Warning:  include_once(./../../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 00:54:53 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 00:55:15 Asia/Jakarta] PHP Warning:  include_once(./../../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 00:55:15 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 00:57:22 Asia/Jakarta] PHP Warning:  include_once(./../../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 00:57:22 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alfianas/public_html/news_detail.php on line 6
+[15-Mar-2020 01:03:37 Asia/Jakarta] PHP Warning:  include_once(./../../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/project.php on line 6
+[15-Mar-2020 01:03:37 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alfianas/public_html/project.php on line 6
+[15-Mar-2020 01:03:37 Asia/Jakarta] PHP Notice:  Undefined index: idpost in /home/alfianas/public_html/project.php on line 8
+[15-Mar-2020 01:03:37 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/alfianas/public_html/project.php on line 10
+[15-Mar-2020 01:03:37 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/alfianas/public_html/project.php on line 24
+[15-Mar-2020 01:03:37 Asia/Jakarta] PHP Notice:  Undefined variable: userfile in /home/alfianas/public_html/project.php on line 92
+[15-Mar-2020 01:03:37 Asia/Jakarta] PHP Notice:  Undefined variable: isi in /home/alfianas/public_html/project.php on line 94
+[15-Mar-2020 01:07:47 Asia/Jakarta] PHP Warning:  include_once(./../../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/project.php on line 6
+[15-Mar-2020 01:07:47 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alfianas/public_html/project.php on line 6
+[15-Mar-2020 01:07:47 Asia/Jakarta] PHP Notice:  Undefined index: idpost in /home/alfianas/public_html/project.php on line 8
+[15-Mar-2020 01:07:47 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/alfianas/public_html/project.php on line 10
+[15-Mar-2020 01:07:47 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/alfianas/public_html/project.php on line 24
+[15-Mar-2020 01:07:47 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 43
+[15-Mar-2020 01:07:47 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 89
+[15-Mar-2020 01:07:47 Asia/Jakarta] PHP Notice:  Undefined variable: userfile in /home/alfianas/public_html/project.php on line 92
+[15-Mar-2020 01:07:47 Asia/Jakarta] PHP Notice:  Undefined variable: isi in /home/alfianas/public_html/project.php on line 94
+[15-Mar-2020 01:08:44 Asia/Jakarta] PHP Warning:  include_once(./../../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/project.php on line 6
+[15-Mar-2020 01:08:44 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alfianas/public_html/project.php on line 6
+[15-Mar-2020 01:08:44 Asia/Jakarta] PHP Notice:  Undefined variable: judul in /home/alfianas/public_html/project.php on line 24
+[15-Mar-2020 01:09:11 Asia/Jakarta] PHP Warning:  include_once(./../../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/project.php on line 6
+[15-Mar-2020 01:09:11 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alfianas/public_html/project.php on line 6
+[15-Mar-2020 01:13:47 Asia/Jakarta] PHP Warning:  include_once(./../../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/project.php on line 6
+[15-Mar-2020 01:13:47 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alfianas/public_html/project.php on line 6
+[15-Mar-2020 01:17:39 Asia/Jakarta] PHP Warning:  include_once(./../../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/project.php on line 6
+[15-Mar-2020 01:17:39 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alfianas/public_html/project.php on line 6
+[15-Mar-2020 01:17:39 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/alfianas/public_html/project.php on line 10
+[15-Mar-2020 01:17:39 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 24
+[15-Mar-2020 01:17:39 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 43
+[15-Mar-2020 01:17:39 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 89
+[15-Mar-2020 01:17:39 Asia/Jakarta] PHP Notice:  Undefined variable: userfile in /home/alfianas/public_html/project.php on line 92
+[15-Mar-2020 01:17:39 Asia/Jakarta] PHP Notice:  Undefined variable: isi in /home/alfianas/public_html/project.php on line 94
+[15-Mar-2020 01:18:50 Asia/Jakarta] PHP Warning:  include_once(./../../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/project.php on line 6
+[15-Mar-2020 01:18:50 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alfianas/public_html/project.php on line 6
+[15-Mar-2020 01:18:50 Asia/Jakarta] PHP Notice:  Undefined index: foto_nama in /home/alfianas/public_html/project.php on line 8
+[15-Mar-2020 01:18:50 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/alfianas/public_html/project.php on line 10
+[15-Mar-2020 01:18:50 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 24
+[15-Mar-2020 01:18:50 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 43
+[15-Mar-2020 01:18:50 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 89
+[15-Mar-2020 01:18:50 Asia/Jakarta] PHP Notice:  Undefined variable: userfile in /home/alfianas/public_html/project.php on line 92
+[15-Mar-2020 01:18:50 Asia/Jakarta] PHP Notice:  Undefined variable: isi in /home/alfianas/public_html/project.php on line 94
+[15-Mar-2020 01:18:51 Asia/Jakarta] PHP Warning:  include_once(./../../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/project.php on line 6
+[15-Mar-2020 01:18:51 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alfianas/public_html/project.php on line 6
+[15-Mar-2020 01:18:51 Asia/Jakarta] PHP Notice:  Undefined index: foto_nama in /home/alfianas/public_html/project.php on line 8
+[15-Mar-2020 01:18:51 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/alfianas/public_html/project.php on line 10
+[15-Mar-2020 01:18:51 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 24
+[15-Mar-2020 01:18:51 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 43
+[15-Mar-2020 01:18:51 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 89
+[15-Mar-2020 01:18:51 Asia/Jakarta] PHP Notice:  Undefined variable: userfile in /home/alfianas/public_html/project.php on line 92
+[15-Mar-2020 01:18:51 Asia/Jakarta] PHP Notice:  Undefined variable: isi in /home/alfianas/public_html/project.php on line 94
+[15-Mar-2020 01:19:09 Asia/Jakarta] PHP Warning:  include_once(./../../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/project.php on line 6
+[15-Mar-2020 01:19:09 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alfianas/public_html/project.php on line 6
+[15-Mar-2020 01:19:09 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/alfianas/public_html/project.php on line 10
+[15-Mar-2020 01:19:09 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 24
+[15-Mar-2020 01:19:09 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 43
+[15-Mar-2020 01:19:09 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 89
+[15-Mar-2020 01:19:09 Asia/Jakarta] PHP Notice:  Undefined variable: userfile in /home/alfianas/public_html/project.php on line 92
+[15-Mar-2020 01:19:09 Asia/Jakarta] PHP Notice:  Undefined variable: isi in /home/alfianas/public_html/project.php on line 94
+[15-Mar-2020 01:19:14 Asia/Jakarta] PHP Warning:  include_once(./../../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/project.php on line 6
+[15-Mar-2020 01:19:14 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alfianas/public_html/project.php on line 6
+[15-Mar-2020 01:19:14 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/alfianas/public_html/project.php on line 10
+[15-Mar-2020 01:19:14 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 24
+[15-Mar-2020 01:19:14 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 43
+[15-Mar-2020 01:19:14 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 89
+[15-Mar-2020 01:19:14 Asia/Jakarta] PHP Notice:  Undefined variable: userfile in /home/alfianas/public_html/project.php on line 92
+[15-Mar-2020 01:19:14 Asia/Jakarta] PHP Notice:  Undefined variable: isi in /home/alfianas/public_html/project.php on line 94
+[15-Mar-2020 01:23:57 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/alfianas/public_html/project.php on line 7
+[15-Mar-2020 01:23:57 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 23
+[15-Mar-2020 01:23:57 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 42
+[15-Mar-2020 01:23:57 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 88
+[15-Mar-2020 01:24:10 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/alfianas/public_html/project.php on line 7
+[15-Mar-2020 01:24:10 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 23
+[15-Mar-2020 01:24:10 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 42
+[15-Mar-2020 01:24:10 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 88
+[15-Mar-2020 01:24:25 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/alfianas/public_html/project.php on line 7
+[15-Mar-2020 01:24:25 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 20
+[15-Mar-2020 01:24:25 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 39
+[15-Mar-2020 01:24:25 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 85
+[15-Mar-2020 01:24:59 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/alfianas/public_html/project.php on line 7
+[15-Mar-2020 01:24:59 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 23
+[15-Mar-2020 01:24:59 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 42
+[15-Mar-2020 01:24:59 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 88
+[15-Mar-2020 01:25:04 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/alfianas/public_html/project.php on line 7
+[15-Mar-2020 01:25:04 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 23
+[15-Mar-2020 01:25:04 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 42
+[15-Mar-2020 01:25:04 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 88
+[15-Mar-2020 01:25:20 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/alfianas/public_html/project.php on line 7
+[15-Mar-2020 01:25:20 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 20
+[15-Mar-2020 01:25:20 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 39
+[15-Mar-2020 01:25:20 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 85
+[15-Mar-2020 01:25:42 Asia/Jakarta] PHP Warning:  include_once(./../../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/project.php on line 6
+[15-Mar-2020 01:25:42 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alfianas/public_html/project.php on line 6
+[15-Mar-2020 01:25:42 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/alfianas/public_html/project.php on line 8
+[15-Mar-2020 01:25:42 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/alfianas/public_html/project.php on line 10
+[15-Mar-2020 01:25:42 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 25
+[15-Mar-2020 01:25:42 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 44
+[15-Mar-2020 01:25:42 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 90
+[15-Mar-2020 01:25:42 Asia/Jakarta] PHP Notice:  Undefined variable: userfile in /home/alfianas/public_html/project.php on line 93
+[15-Mar-2020 01:25:42 Asia/Jakarta] PHP Notice:  Undefined variable: isi in /home/alfianas/public_html/project.php on line 95
+[15-Mar-2020 01:25:57 Asia/Jakarta] PHP Warning:  include_once(./../../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/project.php on line 6
+[15-Mar-2020 01:25:57 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alfianas/public_html/project.php on line 6
+[15-Mar-2020 01:25:57 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/alfianas/public_html/project.php on line 8
+[15-Mar-2020 01:25:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/alfianas/public_html/project.php on line 10
+[15-Mar-2020 01:25:57 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 25
+[15-Mar-2020 01:25:57 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 44
+[15-Mar-2020 01:25:57 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 90
+[15-Mar-2020 01:25:57 Asia/Jakarta] PHP Notice:  Undefined variable: userfile in /home/alfianas/public_html/project.php on line 93
+[15-Mar-2020 01:25:57 Asia/Jakarta] PHP Notice:  Undefined variable: isi in /home/alfianas/public_html/project.php on line 95
+[15-Mar-2020 01:26:10 Asia/Jakarta] PHP Warning:  include_once(./../../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/project.php on line 6
+[15-Mar-2020 01:26:10 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alfianas/public_html/project.php on line 6
+[15-Mar-2020 01:26:10 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/alfianas/public_html/project.php on line 8
+[15-Mar-2020 01:26:10 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/alfianas/public_html/project.php on line 10
+[15-Mar-2020 01:26:10 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 24
+[15-Mar-2020 01:26:10 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 43
+[15-Mar-2020 01:26:10 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 89
+[15-Mar-2020 01:26:10 Asia/Jakarta] PHP Notice:  Undefined variable: userfile in /home/alfianas/public_html/project.php on line 92
+[15-Mar-2020 01:26:10 Asia/Jakarta] PHP Notice:  Undefined variable: isi in /home/alfianas/public_html/project.php on line 94
+[15-Mar-2020 01:26:11 Asia/Jakarta] PHP Warning:  include_once(./../../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/project.php on line 6
+[15-Mar-2020 01:26:11 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alfianas/public_html/project.php on line 6
+[15-Mar-2020 01:26:11 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/alfianas/public_html/project.php on line 8
+[15-Mar-2020 01:26:11 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/alfianas/public_html/project.php on line 10
+[15-Mar-2020 01:26:11 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 24
+[15-Mar-2020 01:26:11 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 43
+[15-Mar-2020 01:26:11 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 89
+[15-Mar-2020 01:26:11 Asia/Jakarta] PHP Notice:  Undefined variable: userfile in /home/alfianas/public_html/project.php on line 92
+[15-Mar-2020 01:26:11 Asia/Jakarta] PHP Notice:  Undefined variable: isi in /home/alfianas/public_html/project.php on line 94
+[15-Mar-2020 01:26:14 Asia/Jakarta] PHP Warning:  include_once(./../../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/project.php on line 6
+[15-Mar-2020 01:26:14 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alfianas/public_html/project.php on line 6
+[15-Mar-2020 01:26:14 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/alfianas/public_html/project.php on line 8
+[15-Mar-2020 01:26:14 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/alfianas/public_html/project.php on line 10
+[15-Mar-2020 01:26:14 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 24
+[15-Mar-2020 01:26:14 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 43
+[15-Mar-2020 01:26:14 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 89
+[15-Mar-2020 01:26:14 Asia/Jakarta] PHP Notice:  Undefined variable: userfile in /home/alfianas/public_html/project.php on line 92
+[15-Mar-2020 01:26:14 Asia/Jakarta] PHP Notice:  Undefined variable: isi in /home/alfianas/public_html/project.php on line 94
+[15-Mar-2020 01:26:33 Asia/Jakarta] PHP Warning:  include_once(./../../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/project.php on line 6
+[15-Mar-2020 01:26:33 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../../config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alfianas/public_html/project.php on line 6
+[15-Mar-2020 01:26:58 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 20
+[15-Mar-2020 01:26:58 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 39
+[15-Mar-2020 01:26:58 Asia/Jakarta] PHP Notice:  Undefined variable: foto_nama in /home/alfianas/public_html/project.php on line 85
+[15-Mar-2020 01:32:11 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/alfianas/public_html/news_detail.php on line 9
+[15-Mar-2020 02:42:44 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[15-Mar-2020 02:42:44 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[15-Mar-2020 02:51:54 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[15-Mar-2020 02:51:54 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[15-Mar-2020 02:52:23 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[15-Mar-2020 02:52:23 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[15-Mar-2020 03:03:55 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[15-Mar-2020 03:03:55 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[15-Mar-2020 03:06:49 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[15-Mar-2020 03:06:49 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[15-Mar-2020 03:09:53 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[15-Mar-2020 03:09:53 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[15-Mar-2020 03:11:24 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[15-Mar-2020 03:11:24 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[15-Mar-2020 03:11:46 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[15-Mar-2020 03:11:46 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[15-Mar-2020 03:11:59 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[15-Mar-2020 03:11:59 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[15-Mar-2020 03:12:19 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[15-Mar-2020 03:12:19 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[15-Mar-2020 04:19:01 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[15-Mar-2020 04:19:01 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[15-Mar-2020 04:32:30 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[15-Mar-2020 04:32:30 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[15-Mar-2020 10:29:28 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[15-Mar-2020 10:29:28 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[15-Mar-2020 10:49:47 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[15-Mar-2020 10:49:47 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[15-Mar-2020 17:27:20 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[15-Mar-2020 17:27:20 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[15-Mar-2020 22:37:16 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[15-Mar-2020 22:37:16 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[15-Mar-2020 22:50:08 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[15-Mar-2020 22:50:08 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[15-Mar-2020 22:58:57 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[15-Mar-2020 22:58:57 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[15-Mar-2020 22:59:07 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[15-Mar-2020 22:59:07 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[15-Mar-2020 22:59:30 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[15-Mar-2020 22:59:30 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[15-Mar-2020 23:01:37 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[15-Mar-2020 23:01:37 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[15-Mar-2020 23:01:58 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[15-Mar-2020 23:01:58 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[15-Mar-2020 23:02:48 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[15-Mar-2020 23:02:48 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[15-Mar-2020 23:04:32 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[15-Mar-2020 23:04:32 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[15-Mar-2020 23:29:22 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[15-Mar-2020 23:29:22 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[15-Mar-2020 23:41:42 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[15-Mar-2020 23:41:42 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[15-Mar-2020 23:42:01 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[15-Mar-2020 23:42:01 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[15-Mar-2020 23:44:02 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[15-Mar-2020 23:44:02 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[15-Mar-2020 23:44:04 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[15-Mar-2020 23:44:04 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[15-Mar-2020 23:45:06 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[15-Mar-2020 23:45:06 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[15-Mar-2020 23:45:57 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[15-Mar-2020 23:45:57 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[15-Mar-2020 23:46:16 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[15-Mar-2020 23:46:16 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[15-Mar-2020 23:46:17 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[15-Mar-2020 23:46:17 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[15-Mar-2020 23:47:24 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[15-Mar-2020 23:47:24 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[15-Mar-2020 23:52:40 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[15-Mar-2020 23:52:40 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[15-Mar-2020 23:55:09 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[15-Mar-2020 23:55:09 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[15-Mar-2020 23:58:21 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[15-Mar-2020 23:58:21 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[15-Mar-2020 23:59:03 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[15-Mar-2020 23:59:03 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[16-Mar-2020 11:07:49 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[16-Mar-2020 11:07:49 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[16-Mar-2020 16:52:25 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[16-Mar-2020 16:52:25 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[18-Mar-2020 13:09:25 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[18-Mar-2020 13:09:25 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[18-Mar-2020 13:09:27 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[18-Mar-2020 13:09:27 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[18-Mar-2020 13:09:34 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[18-Mar-2020 13:09:34 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[18-Mar-2020 13:09:35 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[18-Mar-2020 13:09:35 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[18-Mar-2020 13:09:37 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[18-Mar-2020 13:09:37 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28
+[18-Mar-2020 13:09:38 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 23
+[18-Mar-2020 13:09:38 Asia/Jakarta] PHP Notice:  Undefined variable: meta_description in /home/alfianas/public_html/news_detail.php on line 28

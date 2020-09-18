@@ -1,0 +1,30 @@
+RewriteEngine On
+RewriteCond %{REQUEST_URI} !\.(?:css|js|jpg|gif|png)$ [NC]
+Options -Indexes
+RewriteRule ^/?$ hm.php [NC,L]
+RewriteRule ^login?$ login.php [NC,L]
+RewriteRule ^contact?$ views/contact/kontak.php [NC,L]
+RewriteRule ^projek?$ views/project/project.php [NC,L]
+RewriteRule ^shop?$ views/shop/shopp.php [NC,L]
+
+RewriteRule ^register?$ register.php [NC,L]
+RewriteRule ^ceklogin?$ views/cek/check-login.php [NC,L]
+RewriteRule ^blog?$ views/news/news.php [NC,L]
+
+RewriteRule  ^blog/?([^'.,?*&^%$#@!/]+)$        views/news/news_detail.php?idpost=$1       [NC,L]
+RewriteRule  ^projek/?([^'.,?*&^%$#@!/]+)$        views/project/project_detail.php?id=$1       [NC,L]
+RewriteRule  ^blog-p/?([^'.,?*&^%$#@!/]+)$        views/news/newsp.php?halaman=$1       [NC,L]
+RewriteRule  ^shop/?([^'.,?*&^%$#@!/]+)$        views/shop/detail_shop.php?id=$1       [NC,L]
+RewriteRule  ^shop-p/?([^'.,?*&^%$#@!/]+)$        views/shop/shoppp.php?halaman=$1       [NC,L]
+RewriteRule  ^baner/?([^'.,?*&^%$#@!/]+)$        views/baner/banerr.php?id_baner=$1       [NC,L]
+
+
+
+
+RewriteRule ^404?$ error404.php [NC,L]
+RewriteRule ^500?$ error500.php [NC,L]
+
+RewriteRule  ^/?([^'.,?*&^%$#@!/]+)$        views/pages/pages.php?page_id=$1       [NC,L]
+RewriteRule  ^blogp/?([^'.,?*&^%$#@!/]+)$        news/newsp.php?news&pagenews&page=$1       [NC,L]
+RewriteRule  ^blog/category/?([^'.,?*&^%$#@!/]+)$        news/category.php?id=$1       [NC,L]
+

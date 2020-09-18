@@ -1,0 +1,20 @@
+[15-Mar-2020 23:36:37 Asia/Jakarta] PHP Warning:  include_once(./../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/admin/header/header2.php on line 54
+[15-Mar-2020 23:36:37 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alfianas/public_html/admin/header/header2.php on line 54
+[15-Mar-2020 23:36:37 Asia/Jakarta] PHP Notice:  Undefined variable: mysqli in /home/alfianas/public_html/admin/header/header2.php on line 56
+[15-Mar-2020 23:36:37 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alfianas/public_html/admin/header/header2.php on line 56
+[15-Mar-2020 23:36:37 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/alfianas/public_html/admin/header/header2.php on line 58
+[15-Mar-2020 23:38:11 Asia/Jakarta] PHP Warning:  include_once(./../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/admin/header/header2.php on line 54
+[15-Mar-2020 23:38:11 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alfianas/public_html/admin/header/header2.php on line 54
+[15-Mar-2020 23:38:11 Asia/Jakarta] PHP Notice:  Undefined variable: mysqli in /home/alfianas/public_html/admin/header/header2.php on line 56
+[15-Mar-2020 23:38:11 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alfianas/public_html/admin/header/header2.php on line 56
+[15-Mar-2020 23:38:11 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/alfianas/public_html/admin/header/header2.php on line 58
+[15-Mar-2020 23:51:12 Asia/Jakarta] PHP Warning:  include_once(./../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/admin/header/header2.php on line 54
+[15-Mar-2020 23:51:12 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alfianas/public_html/admin/header/header2.php on line 54
+[15-Mar-2020 23:51:12 Asia/Jakarta] PHP Notice:  Undefined variable: mysqli in /home/alfianas/public_html/admin/header/header2.php on line 56
+[15-Mar-2020 23:51:12 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alfianas/public_html/admin/header/header2.php on line 56
+[15-Mar-2020 23:51:12 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/alfianas/public_html/admin/header/header2.php on line 58
+[15-Mar-2020 23:54:51 Asia/Jakarta] PHP Warning:  include_once(./../config.php): failed to open stream: No such file or directory in /home/alfianas/public_html/admin/header/header2.php on line 54
+[15-Mar-2020 23:54:51 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './../config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/alfianas/public_html/admin/header/header2.php on line 54
+[15-Mar-2020 23:54:51 Asia/Jakarta] PHP Notice:  Undefined variable: mysqli in /home/alfianas/public_html/admin/header/header2.php on line 56
+[15-Mar-2020 23:54:51 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/alfianas/public_html/admin/header/header2.php on line 56
+[15-Mar-2020 23:54:51 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/alfianas/public_html/admin/header/header2.php on line 58
